@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.19.45
+# v0.19.46
 
 using Markdown
 using InteractiveUtils
@@ -71,9 +71,6 @@ Pkg.instantiate()
 # ╔═╡ 07f01269-cfd8-4d3d-8d85-0b1132ff2005
 md""" ## Load some helpful packages """
 
-
-# ╔═╡ 01f84c5f-8881-401f-a0a8-8ae69385f9fe
-#using MultipliableDimArrays
 
 # ╔═╡ 39045ccd-fd9a-4d87-a2d9-79171a3366dc
 plotly()
@@ -704,7 +701,6 @@ sum(Matrix(a_residence)[:]) # a test that all mass is taken into account
 # ╠═0a9a45e2-a561-4a21-afb9-b96ec884de4a
 # ╠═2fe46717-3f77-4afa-9e74-1ddb594e40ea
 # ╠═cc363185-cdc4-47be-a926-5178e1535f0d
-# ╠═01f84c5f-8881-401f-a0a8-8ae69385f9fe
 # ╠═39045ccd-fd9a-4d87-a2d9-79171a3366dc
 # ╟─abe2697f-3bcd-49ae-bbcb-dd0a04c3f147
 # ╟─b9f2165e-2d18-4179-a69f-ab0fc6ceb8b6
